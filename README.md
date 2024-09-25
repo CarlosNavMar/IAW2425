@@ -4,7 +4,7 @@
 ---
 
 
-!/home/usuario/Descargas/mono
+!(/home/usuario/Descargas/mono)
 
 
 >Si españa fuera un donut madrid no existiria. -
